@@ -16,4 +16,6 @@ def reverse_each_word(string)
   binding.pry
   array
   
+  
+  
 end
