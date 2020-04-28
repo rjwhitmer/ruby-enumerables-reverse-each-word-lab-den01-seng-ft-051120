@@ -12,7 +12,7 @@ def reverse_each_word(string)
   end
   
   #binding.pry
-  new_arrayarray
+  new_array
   
   
   
