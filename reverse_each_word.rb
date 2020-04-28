@@ -6,15 +6,13 @@ def reverse_each_word(string)
   #binding.pry 
   
   array.each do |i|
-    array = i.reverse
+    new_array << i.reverse
     #binding.pry
     
   end
   
-  new_array = array.split(" ")
-  
-  binding.pry
-  array
+  #binding.pry
+  new_arrayarray
   
   
   
